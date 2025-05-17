@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">📚 I'm currently learning JS, MongoDB, HTML, CSS and more <br>📫 How to reach me https://gravatar.com/edelsonvitor<br>💬 Ask me about JavaScript, Design UI and MongoDB.</p>
+<p align="left">📚 I'm currently learning JS, C++, HTML, CSS, SQL, MongoDB and more <br>📫 How to reach me https://gravatar.com/edelsonvitor<br>💬 Ask me about JavaScript, Design UI and MongoDB.</p>
 
 ###
 
